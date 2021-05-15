@@ -1,0 +1,8 @@
+/Users/souravchatterjee/GitRepos/MVCUtilities/bin/Debug/MVCUtilitiesLibrary.dll
+/Users/souravchatterjee/GitRepos/MVCUtilities/bin/Debug/MVCUtilitiesLibrary.pdb
+/Users/souravchatterjee/GitRepos/MVCUtilities/bin/Debug/UnityEngine.dll
+/Users/souravchatterjee/GitRepos/MVCUtilities/obj/Debug/MVCUtilitiesLibrary.csprojAssemblyReference.cache
+/Users/souravchatterjee/GitRepos/MVCUtilities/obj/Debug/MVCUtilitiesLibrary.csproj.CoreCompileInputs.cache
+/Users/souravchatterjee/GitRepos/MVCUtilities/obj/Debug/MVCUtilitiesLibrary.csproj.CopyComplete
+/Users/souravchatterjee/GitRepos/MVCUtilities/obj/Debug/MVCUtilitiesLibrary.dll
+/Users/souravchatterjee/GitRepos/MVCUtilities/obj/Debug/MVCUtilitiesLibrary.pdb
