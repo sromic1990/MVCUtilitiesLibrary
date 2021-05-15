@@ -23,7 +23,7 @@ namespace UtilitiesLibrary.IO
         {
             if (FileExists())
             {
-                string str = File.ReadAllText(Path);
+                string str = File.ReadAllText(Path + _filename);
                 return str;
             }
             else
